@@ -1,0 +1,28 @@
+p{
+
+}
+
+div{
+
+}
+
+.odd{
+    background-color: lightpink;
+    font: Verdana, DejaVu Sans, sans-serif;
+}
+
+#second{
+    color: blue;
+    font-size: 36px;
+}
+
+#third{
+    font-size: 24px;
+}
+
+
+#fourth{
+    font-size: 24px;
+    text-emphasis: bold;
+    background-color: lightgreen;
+}

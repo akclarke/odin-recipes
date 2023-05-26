@@ -1,0 +1,22 @@
+@import '~bootstrap/scss/_variables.scss';
+a{
+    color:rgba(255, 0, 0, 0.37);
+    font-size: 20px;
+    text-decoration: none;
+}
+navbar ul {
+    display:flex;
+    flex-direction: row;
+    gap: 3em;
+    justify-content: center;
+
+}
+navbar ul li {
+    flex-direction: row;
+}
+ul li p {
+    color: blue;
+}
+body {
+
+}
